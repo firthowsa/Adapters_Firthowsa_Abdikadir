@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adapters</string>
+    <string-array name="programs_array">
+        <item>BSc. Computer Science</item>
+        <item>BSc. Applied Computer Science</item>
+        <item>Bsc. IT</item>
+        <item>Diploma in Computer Science</item>
+        <item>Msc. Computer Science</item>
+    </string-array>
+</resources>
